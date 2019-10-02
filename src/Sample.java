@@ -27,6 +27,7 @@ public class Sample extends HttpServlet{
 		out.println("<h1>Sure Ganesh Reddy</h1>");
 		out.println("<h1>"  +  ganesh + "</h1>");
 		out.println("</body></html>");
+		System.out.println("welcome");
 		
 	}
 
